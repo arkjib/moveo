@@ -1,0 +1,5 @@
+{
+  "name": "Moveo - Railway DBMS",
+  "description": "A modern railway booking management system with user and admin dashboards. Users can search, book, and cancel train tickets. Admins can manage train schedules and details. The app features AI-powered marketing description and trip itinerary generation using the Gemini API.",
+  "requestFramePermissions": []
+}
